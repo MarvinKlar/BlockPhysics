@@ -1,0 +1,12 @@
+main: mr.minecraft15.blockphysics.Main
+name: BlockPhysics
+author: Mr_Minecraft15
+version: 1.0
+
+commands:
+ BlockPhysics:
+  aliases: [Physics]
+  
+permissions:
+ BlockPhysics.command:
+  description: Allows you to use the command
